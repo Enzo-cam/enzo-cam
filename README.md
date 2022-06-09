@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Enzo Cámera</h1>
 <h3 align="center">A frontend developer junior from Corrientes, 🇦🇷</h3>
 
-- 🌱 I am currently learning **VueJS** and doing projects to practice my skills.
-
-- 👯 I am looking to collaborate on **frontend projects, preferably in the layout part.**
+- 🌱 Learning **JS** in deep and doing projects to practice skills of frontend.
 
 - 🤝 I’m looking for help with my path in Web Development, I'll really appreciate for a good mentor.
 
 - 👨‍💻 All of my projects are available at [https://github.com/EnzoCam7?tab=repositories](https://github.com/EnzoCam7?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, Js or UX.**
+- 💬 Ask me about **HTML, CSS, JS or UX.**
 
 - 📫 You can reach me at **camerac09@gmail.com**
 
